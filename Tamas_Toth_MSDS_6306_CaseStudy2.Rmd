@@ -836,7 +836,7 @@ Based on the pair plots the following variables have linear relationship with Mo
 - TotalWorkingYears, 
 - YearAtCompany
 
-therefore I will include these continous varibales to the Multiple Linear Regression model.
+therefore I will include these continuous variables to the Multiple Linear Regression model.
 
 ### Check VIF for the selected numerical variables
 ```{r,fig.align='center',out.extra='angle=90'}
