@@ -1,5 +1,5 @@
 ---
-title: "CaseStudy2DDS"
+title: "Attrition analysis and prediction (CaseStudy2)"
 author: "Tamas Toth"
 date: '2022-04-16'
 output: 
@@ -550,8 +550,30 @@ if ((a>0) | (b>0) | (c>0) | (d>0))
 
 $~$
 
+### Full Correlation Matrix for Linear Regression (MonthlyIncome)
+```{r fig.dim = c(14, 12), fig.align='center',out.extra='angle=90'}
+#####################################################################################
+#      Full Correlation Matrix for Linear Regression (MonthlyIncome)                #
+#####################################################################################
+
+# Filter for data to be included
+num_exclude = c('EmployeeNumber', 'ID', 'StandardHours', 'EmployeeCount')
+num_cols = tm %>% select(where(is.numeric)) %>% colnames()
+num_full_corr = noquote(unlist(num_cols[!( num_cols %in% num_exclude)]))
+
+tmcorr = tm[,num_full_corr]
+corrplot(cor(tmcorr), method = 'square', order = 'AOE', addCoef.col = 'black', 
+         cl.pos = 'n', col = COL2('BrBG'))
+```
+
+### Observations:
+- The MonthIncome variable is positively correlated with YearAtCompany, TotalWorkingYears, JobLevel and Age. The rest of the correlations are not significant.
+
+$~$
+
+
 ### Zoomed-in Correlation Matrix
-```{r fig.dim = c(8, 6)}
+```{r fig.dim = c(8, 6), fig.align='center',out.extra='angle=90'}
 #####################################################################################
 #                          Zoomed-in Correlation Matrix                             #
 #####################################################################################
@@ -599,7 +621,7 @@ p = varSel$p.value
 - Assumptions for a t-test has been plotted under the Uni-variate analysis. We can see that the distributions don't look normal but we have enough samples so we can apply CLT therefore this is not a concern.
 - The standard deviations are not equal but t-test would be robust agiants it if the sample sizes are equal. Since the Attrition and No Attrition sample sizes are not equal we cannot assume that the standard deviations are equal. Due to this violation I ran Welch's two sample t-test.
 - We assume independence. 
-H0:μ_Attrition=μ_Not_Attrition
+- H0:μ_Attrition=μ_Not_Attrition
 - Ha:μ_Attrition≠μ_Not_Attrition
 - The test output above shows (incl. p-value) which variable should be included and excluded to the model.
 - Based on the hypothesis test if the p-value > 0.05 then it means that there is not enough evidence to suggest that the "attrition" and "no attrition" groups are different therefore we should not include those variables into the model.
@@ -686,7 +708,7 @@ confusionMatrix(test$Attrition, prediction_test, positive = 'Yes')
 ```
 
 ### Visualize 'k' and the most important features
-```{r}
+```{r, fig.align='center',out.extra='angle=90'}
 # Visualize 'k' and the most important features
 ggplot(KNNM) + ggtitle("Optimal k value for the highest accuracy") +
   theme(plot.title = element_text(hjust = 0.5))
@@ -751,7 +773,7 @@ confusionMatrix(testNB$Attrition, prediction_test, positive = 'Yes')
 $~$
 
 ### Visualize Naive Bayes most important features
-```{r}
+```{r, fig.align='center',out.extra='angle=90'}
 # Visualize the most important features
 NBvarImp = varImp(NB)
 plot(NBvarImp, top = 5, main='Top 5 reason of resignation (Naive Bayes)')
@@ -914,3 +936,8 @@ $~$
 3. Implement a program that will encourage younger employees to stay with the company as people with less then 10 years of work experience tend to leave the company more often.
 4. Salary in many cases is an important factor for attrition. Make sure that the salary of the employees stays competitive, even extending the Stock options will help.
 5. I also recommend using the Regression model for predicting monthly salary. This could help the company to retain employees and stay competitive on the job market by better planning salaries. 
+
+
+$~$
+
+## Executive Summary:
