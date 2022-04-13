@@ -134,7 +134,7 @@ paged_table(empty_string_df)
 set.seed(329)
 ```
 $~$
-```{r warning=FALSE}
+```{r, warning=FALSE}
 # Function to Identify different characteristics of the data frame 
 # Getting a concise summary of the dataframe: str()
 # Listing the column labels of the dataframe: colnames()
@@ -155,7 +155,7 @@ dfinfo = function(df_name)
 }
 ```
 
-```{r results=FALSE}
+```{r, results=FALSE, warning=FALSE}
 # List of nominal categorical variables
 nom_cat = noquote(unlist(tm %>% select(where(is.character)) %>% colnames()))
 #convert the nominal categorical variables to factors
