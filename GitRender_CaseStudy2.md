@@ -5,6 +5,15 @@ Tamas Toth
 
  
 
+#### YouTube video
+
+<h2>
+<a href="https://youtu.be/V3QS8_9L4ws">Please click here for the Youtube
+video presentation</a>
+</h2>
+
+ 
+
 #### Loading the necessary R libraries for the analysis
 
 ``` r
@@ -272,120 +281,10 @@ YearsWithCurrManager
 <tbody>
 <tr>
 <td style="text-align:right;">
-320
+596
 </td>
 <td style="text-align:right;">
-19
-</td>
-<td style="text-align:left;">
-No
-</td>
-<td style="text-align:left;">
-Travel_Rarely
-</td>
-<td style="text-align:right;">
-265
-</td>
-<td style="text-align:left;">
-Research & Development
-</td>
-<td style="text-align:right;">
-25
-</td>
-<td style="text-align:right;">
-3
-</td>
-<td style="text-align:left;">
-Life Sciences
-</td>
-<td style="text-align:right;">
-1
-</td>
-<td style="text-align:right;">
-1269
-</td>
-<td style="text-align:right;">
-2
-</td>
-<td style="text-align:left;">
-Female
-</td>
-<td style="text-align:right;">
-57
-</td>
-<td style="text-align:right;">
-4
-</td>
-<td style="text-align:right;">
-1
-</td>
-<td style="text-align:left;">
-Research Scientist
-</td>
-<td style="text-align:right;">
-4
-</td>
-<td style="text-align:left;">
-Single
-</td>
-<td style="text-align:right;">
-2994
-</td>
-<td style="text-align:right;">
-21221
-</td>
-<td style="text-align:right;">
-1
-</td>
-<td style="text-align:left;">
-Y
-</td>
-<td style="text-align:left;">
-Yes
-</td>
-<td style="text-align:right;">
-12
-</td>
-<td style="text-align:right;">
-3
-</td>
-<td style="text-align:right;">
-4
-</td>
-<td style="text-align:right;">
-80
-</td>
-<td style="text-align:right;">
-0
-</td>
-<td style="text-align:right;">
-1
-</td>
-<td style="text-align:right;">
-2
-</td>
-<td style="text-align:right;">
-3
-</td>
-<td style="text-align:right;">
-1
-</td>
-<td style="text-align:right;">
-0
-</td>
-<td style="text-align:right;">
-0
-</td>
-<td style="text-align:right;">
-1
-</td>
-</tr>
-<tr>
-<td style="text-align:right;">
-108
-</td>
-<td style="text-align:right;">
-55
+33
 </td>
 <td style="text-align:left;">
 No
@@ -394,236 +293,16 @@ No
 Travel_Rarely
 </td>
 <td style="text-align:right;">
-189
-</td>
-<td style="text-align:left;">
-Human Resources
-</td>
-<td style="text-align:right;">
-26
-</td>
-<td style="text-align:right;">
-4
-</td>
-<td style="text-align:left;">
-Human Resources
-</td>
-<td style="text-align:right;">
-1
-</td>
-<td style="text-align:right;">
-1973
-</td>
-<td style="text-align:right;">
-3
-</td>
-<td style="text-align:left;">
-Male
-</td>
-<td style="text-align:right;">
-71
-</td>
-<td style="text-align:right;">
-4
-</td>
-<td style="text-align:right;">
-5
-</td>
-<td style="text-align:left;">
-Manager
-</td>
-<td style="text-align:right;">
-2
-</td>
-<td style="text-align:left;">
-Married
-</td>
-<td style="text-align:right;">
-19636
-</td>
-<td style="text-align:right;">
-25811
-</td>
-<td style="text-align:right;">
-4
-</td>
-<td style="text-align:left;">
-Y
-</td>
-<td style="text-align:left;">
-Yes
-</td>
-<td style="text-align:right;">
-18
-</td>
-<td style="text-align:right;">
-3
-</td>
-<td style="text-align:right;">
-1
-</td>
-<td style="text-align:right;">
-80
-</td>
-<td style="text-align:right;">
-1
-</td>
-<td style="text-align:right;">
-35
-</td>
-<td style="text-align:right;">
-0
-</td>
-<td style="text-align:right;">
-3
-</td>
-<td style="text-align:right;">
-10
-</td>
-<td style="text-align:right;">
-9
-</td>
-<td style="text-align:right;">
-1
-</td>
-<td style="text-align:right;">
-4
-</td>
-</tr>
-<tr>
-<td style="text-align:right;">
-466
-</td>
-<td style="text-align:right;">
-38
-</td>
-<td style="text-align:left;">
-No
-</td>
-<td style="text-align:left;">
-Travel_Rarely
-</td>
-<td style="text-align:right;">
-371
-</td>
-<td style="text-align:left;">
-Research & Development
-</td>
-<td style="text-align:right;">
-2
-</td>
-<td style="text-align:right;">
-3
-</td>
-<td style="text-align:left;">
-Life Sciences
-</td>
-<td style="text-align:right;">
-1
-</td>
-<td style="text-align:right;">
-24
-</td>
-<td style="text-align:right;">
-4
-</td>
-<td style="text-align:left;">
-Male
-</td>
-<td style="text-align:right;">
-45
-</td>
-<td style="text-align:right;">
-3
-</td>
-<td style="text-align:right;">
-1
-</td>
-<td style="text-align:left;">
-Research Scientist
-</td>
-<td style="text-align:right;">
-4
-</td>
-<td style="text-align:left;">
-Single
-</td>
-<td style="text-align:right;">
-3944
-</td>
-<td style="text-align:right;">
-4306
-</td>
-<td style="text-align:right;">
-5
-</td>
-<td style="text-align:left;">
-Y
-</td>
-<td style="text-align:left;">
-Yes
-</td>
-<td style="text-align:right;">
-11
-</td>
-<td style="text-align:right;">
-3
-</td>
-<td style="text-align:right;">
-3
-</td>
-<td style="text-align:right;">
-80
-</td>
-<td style="text-align:right;">
-0
-</td>
-<td style="text-align:right;">
-6
-</td>
-<td style="text-align:right;">
-3
-</td>
-<td style="text-align:right;">
-3
-</td>
-<td style="text-align:right;">
-3
-</td>
-<td style="text-align:right;">
-2
-</td>
-<td style="text-align:right;">
-1
-</td>
-<td style="text-align:right;">
-2
-</td>
-</tr>
-<tr>
-<td style="text-align:right;">
-627
-</td>
-<td style="text-align:right;">
-24
-</td>
-<td style="text-align:left;">
-No
-</td>
-<td style="text-align:left;">
-Travel_Rarely
-</td>
-<td style="text-align:right;">
-1476
+586
 </td>
 <td style="text-align:left;">
 Sales
 </td>
 <td style="text-align:right;">
-4
+1
 </td>
 <td style="text-align:right;">
-1
+3
 </td>
 <td style="text-align:left;">
 Medical
@@ -632,19 +311,19 @@ Medical
 1
 </td>
 <td style="text-align:right;">
-1445
+855
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:left;">
+Male
+</td>
+<td style="text-align:right;">
+48
 </td>
 <td style="text-align:right;">
 4
-</td>
-<td style="text-align:left;">
-Female
-</td>
-<td style="text-align:right;">
-42
-</td>
-<td style="text-align:right;">
-3
 </td>
 <td style="text-align:right;">
 2
@@ -653,16 +332,16 @@ Female
 Sales Executive
 </td>
 <td style="text-align:right;">
-3
+1
 </td>
 <td style="text-align:left;">
-Married
+Divorced
 </td>
 <td style="text-align:right;">
-4162
+4037
 </td>
 <td style="text-align:right;">
-15211
+21816
 </td>
 <td style="text-align:right;">
 1
@@ -671,10 +350,230 @@ Married
 Y
 </td>
 <td style="text-align:left;">
+No
+</td>
+<td style="text-align:right;">
+22
+</td>
+<td style="text-align:right;">
+4
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:right;">
+80
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:right;">
+9
+</td>
+<td style="text-align:right;">
+5
+</td>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:right;">
+9
+</td>
+<td style="text-align:right;">
+8
+</td>
+<td style="text-align:right;">
+0
+</td>
+<td style="text-align:right;">
+8
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+801
+</td>
+<td style="text-align:right;">
+33
+</td>
+<td style="text-align:left;">
+No
+</td>
+<td style="text-align:left;">
+Travel_Frequently
+</td>
+<td style="text-align:right;">
+1141
+</td>
+<td style="text-align:left;">
+Sales
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:left;">
+Life Sciences
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:right;">
+52
+</td>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:left;">
+Female
+</td>
+<td style="text-align:right;">
+42
+</td>
+<td style="text-align:right;">
+4
+</td>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:left;">
+Sales Executive
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:left;">
+Married
+</td>
+<td style="text-align:right;">
+5376
+</td>
+<td style="text-align:right;">
+3193
+</td>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:left;">
+Y
+</td>
+<td style="text-align:left;">
+No
+</td>
+<td style="text-align:right;">
+19
+</td>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:right;">
+80
+</td>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:right;">
+10
+</td>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:right;">
+5
+</td>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:right;">
+3
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+94
+</td>
+<td style="text-align:right;">
+35
+</td>
+<td style="text-align:left;">
+No
+</td>
+<td style="text-align:left;">
+Travel_Rarely
+</td>
+<td style="text-align:right;">
+670
+</td>
+<td style="text-align:left;">
+Research & Development
+</td>
+<td style="text-align:right;">
+10
+</td>
+<td style="text-align:right;">
+4
+</td>
+<td style="text-align:left;">
+Medical
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:right;">
+1587
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:left;">
+Female
+</td>
+<td style="text-align:right;">
+51
+</td>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:left;">
+Healthcare Representative
+</td>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:left;">
+Single
+</td>
+<td style="text-align:right;">
+6142
+</td>
+<td style="text-align:right;">
+4223
+</td>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:left;">
+Y
+</td>
+<td style="text-align:left;">
 Yes
 </td>
 <td style="text-align:right;">
-12
+16
 </td>
 <td style="text-align:right;">
 3
@@ -686,36 +585,36 @@ Yes
 80
 </td>
 <td style="text-align:right;">
-2
+0
 </td>
 <td style="text-align:right;">
-5
-</td>
-<td style="text-align:right;">
-3
-</td>
-<td style="text-align:right;">
-3
-</td>
-<td style="text-align:right;">
-5
+10
 </td>
 <td style="text-align:right;">
 4
 </td>
 <td style="text-align:right;">
+3
+</td>
+<td style="text-align:right;">
+5
+</td>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:right;">
 0
 </td>
 <td style="text-align:right;">
-3
+4
 </td>
 </tr>
 <tr>
 <td style="text-align:right;">
-852
+582
 </td>
 <td style="text-align:right;">
-30
+42
 </td>
 <td style="text-align:left;">
 No
@@ -724,34 +623,144 @@ No
 Travel_Rarely
 </td>
 <td style="text-align:right;">
-125
+810
 </td>
 <td style="text-align:left;">
 Research & Development
 </td>
 <td style="text-align:right;">
-9
+23
 </td>
 <td style="text-align:right;">
-2
+5
 </td>
 <td style="text-align:left;">
-Medical
+Life Sciences
 </td>
 <td style="text-align:right;">
 1
 </td>
 <td style="text-align:right;">
-41
+468
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:left;">
+Female
+</td>
+<td style="text-align:right;">
+44
+</td>
+<td style="text-align:right;">
+3
 </td>
 <td style="text-align:right;">
 4
 </td>
 <td style="text-align:left;">
+Research Director
+</td>
+<td style="text-align:right;">
+4
+</td>
+<td style="text-align:left;">
+Single
+</td>
+<td style="text-align:right;">
+15992
+</td>
+<td style="text-align:right;">
+15901
+</td>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:left;">
+Y
+</td>
+<td style="text-align:left;">
+No
+</td>
+<td style="text-align:right;">
+14
+</td>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:right;">
+80
+</td>
+<td style="text-align:right;">
+0
+</td>
+<td style="text-align:right;">
+16
+</td>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:right;">
+0
+</td>
+<td style="text-align:right;">
+0
+</td>
+<td style="text-align:right;">
+0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+655
+</td>
+<td style="text-align:right;">
+22
+</td>
+<td style="text-align:left;">
+Yes
+</td>
+<td style="text-align:left;">
+Travel_Frequently
+</td>
+<td style="text-align:right;">
+1368
+</td>
+<td style="text-align:left;">
+Research & Development
+</td>
+<td style="text-align:right;">
+4
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:left;">
+Technical Degree
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:right;">
+593
+</td>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:left;">
 Male
 </td>
 <td style="text-align:right;">
-83
+99
 </td>
 <td style="text-align:right;">
 2
@@ -769,13 +778,13 @@ Laboratory Technician
 Single
 </td>
 <td style="text-align:right;">
-2206
+3894
 </td>
 <td style="text-align:right;">
-16117
+9129
 </td>
 <td style="text-align:right;">
-1
+5
 </td>
 <td style="text-align:left;">
 Y
@@ -784,13 +793,13 @@ Y
 No
 </td>
 <td style="text-align:right;">
-13
+16
 </td>
 <td style="text-align:right;">
 3
 </td>
 <td style="text-align:right;">
-1
+3
 </td>
 <td style="text-align:right;">
 80
@@ -799,25 +808,25 @@ No
 0
 </td>
 <td style="text-align:right;">
-10
-</td>
-<td style="text-align:right;">
-5
+4
 </td>
 <td style="text-align:right;">
 3
 </td>
 <td style="text-align:right;">
-10
+3
 </td>
 <td style="text-align:right;">
-0
+2
+</td>
+<td style="text-align:right;">
+2
 </td>
 <td style="text-align:right;">
 1
 </td>
 <td style="text-align:right;">
-8
+2
 </td>
 </tr>
 </tbody>
@@ -2056,6 +2065,33 @@ if ((a>0) | (b>0) | (c>0) | (d>0))
 
  
 
+### Full Correlation Matrix for Linear Regression (MonthlyIncome)
+
+``` r
+#####################################################################################
+#      Full Correlation Matrix for Linear Regression (MonthlyIncome)                #
+#####################################################################################
+
+# Filter for data to be included
+num_exclude = c('EmployeeNumber', 'ID', 'StandardHours', 'EmployeeCount')
+num_cols = tm %>% select(where(is.numeric)) %>% colnames()
+num_full_corr = noquote(unlist(num_cols[!( num_cols %in% num_exclude)]))
+
+tmcorr = tm[,num_full_corr]
+corrplot(cor(tmcorr), method = 'square', order = 'AOE', addCoef.col = 'black', 
+         cl.pos = 'n', col = COL2('BrBG'))
+```
+
+<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-17-1.png" angle=90 style="display: block; margin: auto;" />
+
+### Observations:
+
+-   The MonthIncome variable is positively correlated with
+    YearAtCompany, TotalWorkingYears, JobLevel and Age. The rest of the
+    correlations are not significant.
+
+ 
+
 ### Zoomed-in Correlation Matrix
 
 ``` r
@@ -2075,7 +2111,7 @@ corrplot(cor(tmcorr), method = 'square', order = 'AOE', addCoef.col = 'black',
          cl.pos = 'n', col = COL2('BrBG'))
 ```
 
-![](GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-17-1.png)<!-- -->
+<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-18-1.png" angle=90 style="display: block; margin: auto;" />
 
 ### Observations:
 
@@ -2144,7 +2180,8 @@ p = varSel$p.value
     Attrition sample sizes are not equal we cannot assume that the
     standard deviations are equal. Due to this violation I ran Welch’s
     two sample t-test.
--   We assume independence. H0:μ_Attrition=μ_Not_Attrition
+-   We assume independence.
+-   H0:μ_Attrition=μ_Not_Attrition
 -   Ha:μ_Attrition≠μ_Not_Attrition
 -   The test output above shows (incl. p-value) which variable should be
     included and excluded to the model.
@@ -2314,14 +2351,14 @@ ggplot(KNNM) + ggtitle("Optimal k value for the highest accuracy") +
   theme(plot.title = element_text(hjust = 0.5))
 ```
 
-![](GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-23-1.png)<!-- -->
+<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-24-1.png" angle=90 style="display: block; margin: auto;" />
 
 ``` r
 KNNvarImp = varImp(KNNM)
 plot(KNNvarImp, top = 5, main='Top 5 reason of resignation (KNN)')
 ```
 
-![](GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-23-2.png)<!-- -->
+<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-24-2.png" angle=90 style="display: block; margin: auto;" />
 
 ## Observations:
 
@@ -2451,7 +2488,7 @@ NBvarImp = varImp(NB)
 plot(NBvarImp, top = 5, main='Top 5 reason of resignation (Naive Bayes)')
 ```
 
-![](GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-27-1.png)<!-- -->
+<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-28-1.png" angle=90 style="display: block; margin: auto;" />
 
 ## Observations:
 
@@ -2499,37 +2536,37 @@ MLR_num_tm = tm[tm$Attrition=="No", num_mod_vars]
 pairs(MonthlyIncome~Age+DailyRate+DistanceFromHome+Education, data=MLR_num_tm, col="green")
 ```
 
-<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-29-1.png" angle=90 style="display: block; margin: auto;" />
+<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-30-1.png" angle=90 style="display: block; margin: auto;" />
 
 ``` r
 pairs(MonthlyIncome~EnvironmentSatisfaction+HourlyRate+JobInvolvement+JobLevel, data=MLR_num_tm, col="green")
 ```
 
-<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-29-2.png" angle=90 style="display: block; margin: auto;" />
+<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-30-2.png" angle=90 style="display: block; margin: auto;" />
 
 ``` r
 pairs(MonthlyIncome~JobSatisfaction+MonthlyRate+NumCompaniesWorked+PercentSalaryHike, data=MLR_num_tm, col="green")
 ```
 
-<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-29-3.png" angle=90 style="display: block; margin: auto;" />
+<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-30-3.png" angle=90 style="display: block; margin: auto;" />
 
 ``` r
 pairs(MonthlyIncome~PerformanceRating+RelationshipSatisfaction+StockOptionLevel+TotalWorkingYears, data=MLR_num_tm, col="green")
 ```
 
-<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-29-4.png" angle=90 style="display: block; margin: auto;" />
+<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-30-4.png" angle=90 style="display: block; margin: auto;" />
 
 ``` r
 pairs(MonthlyIncome~TrainingTimesLastYear+WorkLifeBalance+YearsAtCompany+YearsInCurrentRole, data=MLR_num_tm, col="green")
 ```
 
-<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-29-5.png" angle=90 style="display: block; margin: auto;" />
+<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-30-5.png" angle=90 style="display: block; margin: auto;" />
 
 ``` r
 pairs(MonthlyIncome~YearsSinceLastPromotion+YearsWithCurrManager, data=MLR_num_tm, col="green")
 ```
 
-<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-29-6.png" angle=90 style="display: block; margin: auto;" />
+<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-30-6.png" angle=90 style="display: block; margin: auto;" />
 
  
 
@@ -2542,37 +2579,37 @@ LOG_num_tm$MonthlyIncome = log(MLR_num_tm$MonthlyIncome)
 pairs(MonthlyIncome~Age+DailyRate+DistanceFromHome+Education, data=MLR_num_tm, col="red")
 ```
 
-<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-30-1.png" angle=90 style="display: block; margin: auto;" />
+<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-31-1.png" angle=90 style="display: block; margin: auto;" />
 
 ``` r
 pairs(MonthlyIncome~EnvironmentSatisfaction+HourlyRate+JobInvolvement+JobLevel, data=LOG_num_tm, col="red")
 ```
 
-<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-30-2.png" angle=90 style="display: block; margin: auto;" />
+<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-31-2.png" angle=90 style="display: block; margin: auto;" />
 
 ``` r
 pairs(MonthlyIncome~JobSatisfaction+MonthlyRate+NumCompaniesWorked+PercentSalaryHike, data=LOG_num_tm, col="red")
 ```
 
-<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-30-3.png" angle=90 style="display: block; margin: auto;" />
+<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-31-3.png" angle=90 style="display: block; margin: auto;" />
 
 ``` r
 pairs(MonthlyIncome~PerformanceRating+RelationshipSatisfaction+StockOptionLevel+TotalWorkingYears, data=LOG_num_tm, col="red")
 ```
 
-<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-30-4.png" angle=90 style="display: block; margin: auto;" />
+<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-31-4.png" angle=90 style="display: block; margin: auto;" />
 
 ``` r
 pairs(MonthlyIncome~TrainingTimesLastYear+WorkLifeBalance+YearsAtCompany+YearsInCurrentRole, data=LOG_num_tm, col="red")
 ```
 
-<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-30-5.png" angle=90 style="display: block; margin: auto;" />
+<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-31-5.png" angle=90 style="display: block; margin: auto;" />
 
 ``` r
 pairs(MonthlyIncome~YearsSinceLastPromotion+YearsWithCurrManager, data=MLR_num_tm, col="red")
 ```
 
-<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-30-6.png" angle=90 style="display: block; margin: auto;" />
+<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-31-6.png" angle=90 style="display: block; margin: auto;" />
 
  
 
@@ -2588,37 +2625,37 @@ LOG_num_tm = log(MLR_num_tm)
 pairs(MonthlyIncome~Age+DailyRate+DistanceFromHome+Education, data=MLR_num_tm, col="blue")
 ```
 
-<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-31-1.png" angle=90 style="display: block; margin: auto;" />
+<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-32-1.png" angle=90 style="display: block; margin: auto;" />
 
 ``` r
 pairs(MonthlyIncome~EnvironmentSatisfaction+HourlyRate+JobInvolvement+JobLevel, data=LOG_num_tm, col="blue")
 ```
 
-<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-31-2.png" angle=90 style="display: block; margin: auto;" />
+<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-32-2.png" angle=90 style="display: block; margin: auto;" />
 
 ``` r
 pairs(MonthlyIncome~JobSatisfaction+MonthlyRate+NumCompaniesWorked+PercentSalaryHike, data=LOG_num_tm, col="blue")
 ```
 
-<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-31-3.png" angle=90 style="display: block; margin: auto;" />
+<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-32-3.png" angle=90 style="display: block; margin: auto;" />
 
 ``` r
 pairs(MonthlyIncome~PerformanceRating+RelationshipSatisfaction+StockOptionLevel+TotalWorkingYears, data=LOG_num_tm, col="blue")
 ```
 
-<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-31-4.png" angle=90 style="display: block; margin: auto;" />
+<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-32-4.png" angle=90 style="display: block; margin: auto;" />
 
 ``` r
 pairs(MonthlyIncome~TrainingTimesLastYear+WorkLifeBalance+YearsAtCompany+YearsInCurrentRole, data=LOG_num_tm, col="blue")
 ```
 
-<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-31-5.png" angle=90 style="display: block; margin: auto;" />
+<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-32-5.png" angle=90 style="display: block; margin: auto;" />
 
 ``` r
 pairs(MonthlyIncome~YearsSinceLastPromotion+YearsWithCurrManager, data=MLR_num_tm, col="blue")
 ```
 
-<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-31-6.png" angle=90 style="display: block; margin: auto;" />
+<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-32-6.png" angle=90 style="display: block; margin: auto;" />
 
 ``` r
 # Based on the pair plots we can observe linear relationship between MonthlyIncome and Age, JobLevel, TotalWorkingYears, YearAtCompany
@@ -2678,7 +2715,7 @@ MLR_VIF = vif(MLR)
 barplot(MLR_VIF, main = 'VIF Values', horiz = TRUE, col="blue")
 ```
 
-<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-33-1.png" angle=90 style="display: block; margin: auto;" />
+<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-34-1.png" angle=90 style="display: block; margin: auto;" />
 
 #### There is no multicollinierity in the model (VIF \< 10) but based on the p-values Age is not significant (its slope is not different than zero) so we can remove it from the model.
 
@@ -2762,26 +2799,26 @@ confint(fit)
 hist(residuals, main = "Histogram of Residuals")
 ```
 
-<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-35-1.png" angle=90 style="display: block; margin: auto;" />
+<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-36-1.png" angle=90 style="display: block; margin: auto;" />
 
 ``` r
 plot(residuals, main = "Residuals plot") 
 abline(h=0, col="blue")
 ```
 
-<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-35-2.png" angle=90 style="display: block; margin: auto;" />
+<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-36-2.png" angle=90 style="display: block; margin: auto;" />
 
 ``` r
 plot(fit, which = 2)
 ```
 
-<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-35-3.png" angle=90 style="display: block; margin: auto;" />
+<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-36-3.png" angle=90 style="display: block; margin: auto;" />
 
 ``` r
 plot(fit, which = 4)
 ```
 
-<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-35-4.png" angle=90 style="display: block; margin: auto;" />
+<img src="GitRender_CaseStudy2_files/figure-gfm/unnamed-chunk-36-4.png" angle=90 style="display: block; margin: auto;" />
 
 ## Observations:
 
@@ -2798,7 +2835,7 @@ plot(fit, which = 4)
 -   I split the data to train and test (used as validation) in a 70-30
     percent.
 -   Used a k-fold cross validation to improve the training of the model.
--   Finally verified the model assumptions and conculded that all are
+-   Finally verified the model assumptions and concluded that all are
     met.
 
  
@@ -2818,3 +2855,58 @@ plot(fit, which = 4)
 5.  I also recommend using the Regression model for predicting monthly
     salary. This could help the company to retain employees and stay
     competitive on the job market by better planning salaries.
+
+ 
+
+## Executive Summary:
+
+Conducted an analysis for the DDSAnalytics company to prove the value of
+Data Science and machine learning in the space of talent management. The
+analysis included 870 employees of the company with 36 attributes of
+each. The analysis discovered that - There are 7 job roles. - Overall
+attrition is 16%. - \~75% of the employees are between 18 and 43 years
+of age. - There are more Male than Females in the company. - The minimum
+monthly income has a wide range (between 1000 and 19999 dollars) -
+Everybody received salary increase. The min increase was 11% and the max
+salary increase employee received is 25%. - Last year in average
+employees took training 3 times. - Employees usually stays shorter
+period with the company. - In average employees gets promoted every two
+years. - Employees in average stay with their managers for \~4 years. -
+The median education level of the employees are 3.
+
+Profiled the different Job Roles:
+
+The youngest team is Sales Representatives based on median age. The
+oldest is the managers and research directors followed by Healthcare
+reps based on median age. Managers are living the closest to the office
+in median distance (\<5 miles). Most of the employees are living between
+5 and 10 miles. The median monthly salary are very similar and the
+lowest for HR, Lab.Tech. Research Scientist and Sales Rep. The median
+monthly salary are very similar and being the mid tier for Healthcare
+Reps., Manufacturing dir. and Sales Exec. The highest paid job roles are
+Managers and Research Directors. The median salary increase is well
+balanced between the job roles. The median Education level is 3 across
+the job roles. There is a research director with a low level of
+education. It is not impossible therefore not considered as an outliar.
+Environment satisfaction is at median level 3 for all job roles. Median
+job involvement is 3 for all job roles. The median job level is the
+lowest for HR, Lab. Tech. Research Scientist and Sales Rep. Healthcare
+Reps, Manufacturing Dir., Sales Exec are on median job level 2. The
+highest median job level is 4 for Managers and Research Directors On
+average all job roles and satisfied equally. The median number of jobs
+before is the highest for Research directors and Managers. The most
+inexperienced employees are Sales Reps., Research Scientist and Lab.
+Techs. The median relationship satisfaction with the manager is equally
+3 for all role. The median stock option levels are zero for HR and Sales
+Reps. The most experience employees are the managers and Research
+directors in terms of number of years worked. Work life balance is well
+balanced across job roles. Management stays the longest with the company
+and Sales Reps stays the least. Managers and directors are in the
+longest time in their roles. Every role had a promotion in the last two
+years in median except the Managers. In median, most of the roles are 5
+years with the current manager except the managers and directors.
+
+Concluded that the top 3 factors for attrition is OverTimem Total
+WorkingYears and Monthly income. Based on these observations a
+recommendation was provided. Predcited Monthly Salary for the employees
+to provide additional competetive advantage for the company.
