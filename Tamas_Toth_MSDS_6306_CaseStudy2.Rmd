@@ -15,6 +15,13 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 $~$
 
+#### YouTube video
+<h2>
+<a href="https://youtu.be/V3QS8_9L4ws">Please click here for the Youtube video presentation</a>
+</h2>
+
+$~$
+
 #### Loading the necessary R libraries for the analysis
 
 ```{r message = FALSE}
@@ -926,7 +933,7 @@ plot(fit, which = 4)
 - Added categorical variable to the model (trial and error method since we did not have a large number of categorical variables).
 - I split the data to train and test (used as validation) in a 70-30 percent.
 - Used a k-fold cross validation to improve the training of the model.
-- Finally verified the model assumptions and conculded that all are met.
+- Finally verified the model assumptions and concluded that all are met.
 
 $~$
 
@@ -941,3 +948,46 @@ $~$
 $~$
 
 ## Executive Summary:
+Conducted an analysis for the DDSAnalytics company to prove the value of Data Science and machine learning in the space of talent management. The analysis included 870 employees of the company with 36 attributes of each. The analysis discovered that 
+- There are 7 job roles. 
+- Overall attrition is 16%.
+- ~75% of the employees are between 18 and 43 years of age.
+- There are more Male than Females in the company.
+- The minimum monthly income is \\$1081, and the maximum is \\$19999.
+- Everybody received salary increase. The min increase was 11% and the max salary increase employee received is 25%.
+- Last year in average employees took training 3 times. 
+- Employees usually stays shorter period with the company.
+- In average employees gets promoted every two years.
+- Employees in average stay with their managers for ~4 years.
+- The median education level of the employees are 3.
+
+Profiled the different Job Roles:
+
+The youngest team is Sales Representatives based on median age.
+The oldest is the managers and research directors followed by Healthcare reps based on median age.
+Managers are living the closest to the office in median distance (<5 miles).
+Most of the employees are living between 5 and 10 miles.
+The median monthly salary are very similar and the lowest for HR, Lab.Tech. Research Scientist and Sales Rep.
+The median monthly salary are very similar and being the mid tier for Healthcare Reps., Manufacturing dir. and Sales Exec.
+The highest paid job roles are Managers and Research Directors.
+The median salary increase is well balanced between the job roles.
+The median Education level is 3 across the job roles. There is a research director with a low level of education. It is not impossible therefore not considered as an outliar.
+Environment satisfaction is at median level 3 for all job roles.
+Median job involvement is 3 for all job roles.
+The median job level is the lowest for HR, Lab. Tech. Research Scientist and Sales Rep.
+Healthcare Reps, Manufacturing Dir., Sales Exec are on median job level 2.
+The highest median job level is 4 for Managers and Research Directors
+On average all job roles and satisfied equally.
+The median number of jobs before is the highest for Research directors and Managers. The most inexperienced employees are Sales Reps., Research Scientist and Lab. Techs.
+The median relationship satisfaction with the manager is equally 3 for all role.
+The median stock option levels are zero for HR and Sales Reps.
+The most experience employees are the managers and Research directors in terms of number of years worked.
+Work life balance is well balanced across job roles.
+Management stays the longest with the company and Sales Reps stays the least.
+Managers and directors are in the longest time in their roles.
+Every role had a promotion in the last two years in median except the Managers.
+In median, most of the roles are 5 years with the current manager except the managers and directors.
+
+and concluded that the top 3 factors for attrition is OverTimem Total WorkingYears and Monthly income. Based on these observations a recommendation was provided. 
+Predcited Monthly Salary for the employees to provide additional competetive advantage for the company. 
+
