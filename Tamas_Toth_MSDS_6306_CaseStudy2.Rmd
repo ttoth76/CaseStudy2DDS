@@ -953,7 +953,7 @@ Conducted an analysis for the DDSAnalytics company to prove the value of Data Sc
 - Overall attrition is 16%.
 - ~75% of the employees are between 18 and 43 years of age.
 - There are more Male than Females in the company.
-- The minimum monthly income is \\$1081, and the maximum is \\$19999.
+- The minimum monthly income has a wide range (between 1000 and 19999 dollars)
 - Everybody received salary increase. The min increase was 11% and the max salary increase employee received is 25%.
 - Last year in average employees took training 3 times. 
 - Employees usually stays shorter period with the company.
@@ -988,6 +988,6 @@ Managers and directors are in the longest time in their roles.
 Every role had a promotion in the last two years in median except the Managers.
 In median, most of the roles are 5 years with the current manager except the managers and directors.
 
-and concluded that the top 3 factors for attrition is OverTimem Total WorkingYears and Monthly income. Based on these observations a recommendation was provided. 
+Concluded that the top 3 factors for attrition is OverTimem Total WorkingYears and Monthly income. Based on these observations a recommendation was provided. 
 Predcited Monthly Salary for the employees to provide additional competetive advantage for the company. 
 
